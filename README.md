@@ -4,19 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## [SemVer](https://docs.npmjs.com/about-semantic-versioning) your deploys
 
-### `yarn version patch`
+### `yarn version --patch`
 
 for releases with only bug fixes
 
-### `yarn version minor`
+### `yarn version --minor`
 
 for releases with new features w/ or w/o bug fixes
 
-### `yarn version major`
+### `yarn version --major`
 
 for major releases or breaking features
 
-### `git push origin main --tags`
+### `git push origin master --tags`
 
 **Remember to push your commit with `--tag` attribute!**
 
